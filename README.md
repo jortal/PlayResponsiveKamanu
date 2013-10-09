@@ -13,7 +13,7 @@ Download the zip file, unzip, cd into the directory, invoke the Play console and
 Usage
 -----
 
-Use the navbar to view different types of canoes.
+Resize the window to see the responsive design at work.
 
 Credits
 -------
