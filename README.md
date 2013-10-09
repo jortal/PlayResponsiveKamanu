@@ -1,4 +1,4 @@
-![screenshot](https://raw.github.com/jortal/ICS314/master/PlayResponsiveKamanu/doc/kamanu-ss.jpg)
+![screenshot](https://raw.github.com/jortal/PlayResponsiveKamanu/master/doc/kamanu-ss.jpg)
 
 Overview
 --------
